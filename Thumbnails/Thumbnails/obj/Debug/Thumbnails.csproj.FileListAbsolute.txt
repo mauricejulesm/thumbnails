@@ -1,0 +1,49 @@
+c:\users\jmulis200\documents\visual studio 2015\Projects\Thumbnails\Thumbnails\bin\roslyn\csc.exe
+c:\users\jmulis200\documents\visual studio 2015\Projects\Thumbnails\Thumbnails\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\jmulis200\documents\visual studio 2015\Projects\Thumbnails\Thumbnails\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\jmulis200\documents\visual studio 2015\Projects\Thumbnails\Thumbnails\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\jmulis200\documents\visual studio 2015\Projects\Thumbnails\Thumbnails\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\jmulis200\documents\visual studio 2015\Projects\Thumbnails\Thumbnails\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\jmulis200\documents\visual studio 2015\Projects\Thumbnails\Thumbnails\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\jmulis200\documents\visual studio 2015\Projects\Thumbnails\Thumbnails\bin\roslyn\System.Collections.Immutable.dll
+c:\users\jmulis200\documents\visual studio 2015\Projects\Thumbnails\Thumbnails\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\jmulis200\documents\visual studio 2015\Projects\Thumbnails\Thumbnails\bin\roslyn\vbc.exe
+c:\users\jmulis200\documents\visual studio 2015\Projects\Thumbnails\Thumbnails\bin\roslyn\VBCSCompiler.exe
+c:\users\jmulis200\documents\visual studio 2015\Projects\Thumbnails\Thumbnails\bin\roslyn\VBCSCompiler.exe.config
+c:\users\jmulis200\documents\visual studio 2015\Projects\Thumbnails\Thumbnails\bin\Thumbnails.dll.config
+c:\users\jmulis200\documents\visual studio 2015\Projects\Thumbnails\Thumbnails\bin\Thumbnails.dll
+c:\users\jmulis200\documents\visual studio 2015\Projects\Thumbnails\Thumbnails\bin\Thumbnails.pdb
+c:\users\jmulis200\documents\visual studio 2015\Projects\Thumbnails\Thumbnails\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\jmulis200\documents\visual studio 2015\Projects\Thumbnails\Thumbnails\bin\Microsoft.WindowsAzure.Storage.dll
+c:\users\jmulis200\documents\visual studio 2015\Projects\Thumbnails\Thumbnails\bin\Microsoft.Data.Edm.dll
+c:\users\jmulis200\documents\visual studio 2015\Projects\Thumbnails\Thumbnails\bin\Microsoft.Data.Services.Client.dll
+c:\users\jmulis200\documents\visual studio 2015\Projects\Thumbnails\Thumbnails\bin\Microsoft.Data.OData.dll
+c:\users\jmulis200\documents\visual studio 2015\Projects\Thumbnails\Thumbnails\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\jmulis200\documents\visual studio 2015\Projects\Thumbnails\Thumbnails\obj\Debug\Thumbnails.dll
+c:\users\jmulis200\documents\visual studio 2015\Projects\Thumbnails\Thumbnails\obj\Debug\Thumbnails.pdb
+F:\academics\Thumbnails\Thumbnails\obj\Debug\Thumbnails.csprojResolveAssemblyReference.cache
+F:\academics\Thumbnails\Thumbnails\obj\Debug\Thumbnails.dll
+F:\academics\Thumbnails\Thumbnails\obj\Debug\Thumbnails.pdb
+C:\Users\Maurice\Desktop\Thumbnails\Thumbnails\bin\roslyn\csc.exe
+C:\Users\Maurice\Desktop\Thumbnails\Thumbnails\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Maurice\Desktop\Thumbnails\Thumbnails\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Maurice\Desktop\Thumbnails\Thumbnails\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Maurice\Desktop\Thumbnails\Thumbnails\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Maurice\Desktop\Thumbnails\Thumbnails\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Maurice\Desktop\Thumbnails\Thumbnails\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Maurice\Desktop\Thumbnails\Thumbnails\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Maurice\Desktop\Thumbnails\Thumbnails\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Maurice\Desktop\Thumbnails\Thumbnails\bin\roslyn\vbc.exe
+C:\Users\Maurice\Desktop\Thumbnails\Thumbnails\bin\roslyn\VBCSCompiler.exe
+C:\Users\Maurice\Desktop\Thumbnails\Thumbnails\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Maurice\Desktop\Thumbnails\Thumbnails\bin\Thumbnails.dll.config
+C:\Users\Maurice\Desktop\Thumbnails\Thumbnails\bin\Thumbnails.dll
+C:\Users\Maurice\Desktop\Thumbnails\Thumbnails\bin\Thumbnails.pdb
+C:\Users\Maurice\Desktop\Thumbnails\Thumbnails\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Maurice\Desktop\Thumbnails\Thumbnails\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Maurice\Desktop\Thumbnails\Thumbnails\bin\Microsoft.Data.Edm.dll
+C:\Users\Maurice\Desktop\Thumbnails\Thumbnails\bin\Microsoft.Data.Services.Client.dll
+C:\Users\Maurice\Desktop\Thumbnails\Thumbnails\bin\Microsoft.Data.OData.dll
+C:\Users\Maurice\Desktop\Thumbnails\Thumbnails\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Maurice\Desktop\Thumbnails\Thumbnails\obj\Debug\Thumbnails.dll
+C:\Users\Maurice\Desktop\Thumbnails\Thumbnails\obj\Debug\Thumbnails.pdb
